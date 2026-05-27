@@ -1,0 +1,9 @@
+com\ftp\FTPHelper.class
+com\ftp\FTPGui$1.class
+com\ftp\FTPClient.class
+com\ftp\FTPConnection.class
+com\ftp\FTPGui$2.class
+com\ftp\FTPGui.class
+com\ftp\FTPPassiveMode.class
+com\ftp\FTPTransfer.class
+com\ftp\FTPReply.class
